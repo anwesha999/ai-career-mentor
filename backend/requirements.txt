@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+mcp
+ollama
+faiss-cpu
+sentence-transformers
+pdfplumber
+numpy
+requests
+beautifulsoup4
+pydantic

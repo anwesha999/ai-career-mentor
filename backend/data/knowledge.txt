@@ -1,0 +1,11 @@
+Backend engineers transitioning to AI should first learn Python and machine learning fundamentals.
+
+GenAI engineers should focus on LLMs, embeddings, vector databases, and prompt engineering.
+
+To reach 50 LPA or higher, engineers must move into high-impact roles like system design ownership, AI systems, or platform engineering.
+
+Top companies expect strong distributed systems knowledge along with AI understanding.
+
+Building real-world AI projects and showcasing them publicly significantly improves job opportunities.
+
+Engineers preparing for senior roles should focus on system design, scalability, and architecture interviews.H
